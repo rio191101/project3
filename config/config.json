@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "TokoBelanjaDevelopment",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "development_rio": {
+    "username": "postgres",
+    "password": "1234567",
+    "database": "TokoBelanjaDevelopment",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "TokoBelanjaProduction",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
